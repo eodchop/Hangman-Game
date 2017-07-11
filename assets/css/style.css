@@ -1,0 +1,9 @@
+body{
+    height: 70%;
+    background: url('download.jpg') center center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-backface-visibility: hidden;
+}
